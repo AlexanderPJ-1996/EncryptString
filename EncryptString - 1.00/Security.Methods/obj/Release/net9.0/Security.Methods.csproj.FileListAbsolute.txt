@@ -1,0 +1,11 @@
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\bin\Release\net9.0\Security.Methods.deps.json
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\bin\Release\net9.0\Security.Methods.dll
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\bin\Release\net9.0\Security.Methods.pdb
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\obj\Release\net9.0\Security.Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\obj\Release\net9.0\Security.Methods.AssemblyInfoInputs.cache
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\obj\Release\net9.0\Security.Methods.AssemblyInfo.cs
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\obj\Release\net9.0\Security.Methods.csproj.CoreCompileInputs.cache
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\obj\Release\net9.0\Security.Methods.dll
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\obj\Release\net9.0\refint\Security.Methods.dll
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\obj\Release\net9.0\Security.Methods.pdb
+D:\Proyectos\VSCode\Windows Forms\EncryptString\Security.Methods\obj\Release\net9.0\ref\Security.Methods.dll

@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <AssemblyTitle>Security Methods</AssemblyTitle>
+    <AssemblyProduct>Security Methods</AssemblyProduct>
+    <PackageId>Security Methods</PackageId>
+    <Product>Security Methods</Product>
+    <Authors>Alexander PJ</Authors>
+    <Description>
+    Class Library with methods for:
+    
+    - Encrypting and decrypting text with Base64.
+    - Encrypting and decrypting text with AES (Advanced Encryption Standard).
+    - Encrypting with Secure Hash Algorithm: MD5, SHA-160, SHA-256 and SHA-512.
+    
+    This program was completely developed with Visual Studio Code, C# and .NET 9
+    
+    Developer: Alexander PJ
+    Github:    github.com/AlexanderPJ-1996
+    E-Mail:    alexpj.1996@outlook.com
+
+    License: GNU General Public License V3
+    </Description>
+    <Copyright>GNU General Public License V3 | Copyright (C) 2025</Copyright>
+  </PropertyGroup>
+
+</Project>
