@@ -1,4 +1,4 @@
-# StringEncrypt
+# EncryptString
 Windows Forms Application with methods for:
 
 - Encrypting and decrypting text with Base64.
